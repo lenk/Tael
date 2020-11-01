@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Tael:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Tael_jar</output-path>
+    <root id="archive" name="Tael.jar">
+      <element id="module-output" name="Tael" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/commons-cli/commons-cli/1.4/commons-cli-1.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
